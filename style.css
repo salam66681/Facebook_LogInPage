@@ -1,0 +1,170 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.maindiv {
+    height: 920px;
+    width: 1326px;
+    padding: 72px 0px 112px;
+    background: #f0f2f5;
+    display: block;
+}
+.flex-container {
+    height: 536px;
+    width: 980px;
+    margin: 0px 173px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+#word {
+    width: 580px;
+    height: 266.08px;
+    padding: 0px 32px 0px 0px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
+
+.content {
+    text-align: center;
+}
+#frmdiv {
+    height: 496px;
+    width: 396px;
+}
+#log {
+    width: 396px;
+    height: 349.83px;
+    margin-top: 40px;
+    padding: 10px 0px 24px 0px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1)
+    
+}
+.frm {
+    display: inline-block;
+    width: 364px;
+    height: 64px;
+    padding: 6px 0px; 
+}
+.btn {
+    display: inline-block;
+    width: 396px;
+    height: 64px;
+    padding-top: 10px;
+}
+#userid {
+    border-radius: 6px;
+    padding: 14px 16px;
+    width: 364px;
+    height: 52px;
+    border: 1px solid #dddfe2;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+#password {
+    border-radius: 6px;
+    padding: 0px 16px 0px 16px;
+    width: 364px;
+    height: 52px;
+    border: 1px solid #dddfe2;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+#button1 {
+    border-radius: 6px;
+    padding: 14px 16px;
+    width: 364px;
+    height: 48px;
+    border: none;
+    background-color: #1877f2;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+}
+.anchor {
+    margin-top: 16px;
+    width: 396px;
+    height: 18.75px;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: normal;
+    color: #1877f2;
+}
+#anchor {
+    text-decoration: none;
+}
+.hr {
+    width: 364px;
+    height: 0px;
+    margin: 20px 16px 20px 16px;
+    display: flex;
+    border-bottom: 1px solid #dadde1;
+    align-items: center;
+}
+.btn2 {
+    display: inline-block;
+    width: 396px;
+    height: 54px;
+    padding: 6px 0px 0px 0px; 
+    text-align: center;
+}
+#button2 {
+    border-radius: 6px;
+    padding: 0px 16px;
+    width: 192.609px;
+    height: 48px;
+    border: none;
+    background-color: #42b72a;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+.img {
+    height: 182.08px;
+    width: 548px;
+    padding: 112px 0px 16px;
+}
+.fblogo {
+    height: 106px;
+    width: 301.06px;
+    margin: -28px;
+}
+.dmoto {
+    width: 500px;
+    height: 84px;
+    padding-bottom: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+}
+#btmdiv {
+    width: 396px;
+    height: 18.750px;
+    margin-top: 28px;
+    text-align: center;
+    color: #1c1e21;
+    font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif;;
+}
+#la {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
